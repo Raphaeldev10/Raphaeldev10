@@ -36,19 +36,8 @@ Hoje, aos 22 anos, sigo unindo esses dois mundos ao cursar Investigação e Per�
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🤖 Linguagens e Tecnologias
-
-#### 💻 Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,py,mysql" />
-
-#### 🔍 Investigation & Security
-<img src="https://skillicons.dev/icons?i=linux,kali,bash,powershell,github" />
-
-<br/>
 
 
-<br/>
-<br/>
 
 
 
