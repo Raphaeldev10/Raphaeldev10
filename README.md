@@ -73,7 +73,17 @@ Hoje, aos 22 anos, sigo unindo esses dois mundos ao cursar Investigação e Per�
 <br/>
 <br/>
 
-### 📊 Estatísticas
+Olá, eu sou o Raphael! 👋
+
+Minha jornada começou na tecnologia, onde me formei em Análise e Desenvolvimento de Sistemas. Sempre fui fascinado por entender como as coisas funcionam "por baixo do capô", mas foi durante o curso que percebi que meu verdadeiro interesse não era apenas construir sistemas, mas protegê-los e entender o que acontece quando algo dá errado.
+
+Hoje, aos 22 anos, sigo unindo esses dois mundos ao cursar Investigação e Perícia Criminal. Acredito que a tecnologia e a justiça devem caminhar juntas. Minha base em ADS me dá a visão técnica necessária para ler códigos e logs, enquanto a perícia me ensina o rigor e a metodologia para transformar dados em fatos.
+
+🔍 O que me move: A busca pela verdade através da análise de dados. Sou apaixonado por "ligar os pontos" em casos complexos e garantir a integridade da informação.
+
+🚀 Meu foco atual: Resposta a Incidentes (IR), Forense Digital e o aprendizado constante de novas ferramentas de investigação.
+
+Vamos conversar sobre tecnologia, segurança ou o futuro da perícia digital? O café é por minha conta! ☕
 <p>
   <img 
     align="left" 
@@ -89,6 +99,18 @@ Hoje, aos 22 anos, sigo unindo esses dois mundos ao cursar Investigação e Per�
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphaeldev10&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+root@raphaelbraga:~$ education --current
+> ADS Degree [COMPLETED]
+> Criminal Investigation & Forensics [IN PROGRESS]
+
+root@raphaelbraga:~$ skills --list
+> [Analysis, Development, Digital Forensics, SQL, Python]
+
+root@raphaelbraga:~$ mission
+> "Construindo sistemas robustos e investigando o que acontece quando eles falham."
+
+
+
 
 </p>
 
