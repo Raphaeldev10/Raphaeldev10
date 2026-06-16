@@ -4,13 +4,7 @@
 
 Olá, eu sou o Raphael! 👋
 
-Minha jornada começou na tecnologia, onde me formei em Análise e Desenvolvimento de Sistemas. Sempre fui curioso  por entender como as coisas funcionam, mas foi durante o curso que percebi que meu verdadeiro interesse não era apenas construir sistemas, mas protegê-los e entender o que acontece quando algo dá errado.
-
-Hoje, aos 22 anos, sigo unindo esses dois mundos ao cursar Investigação e Perícia Criminal. Acredito que a tecnologia e a justiça devem caminhar juntas. Minha base em ADS me dá a visão técnica necessária para ler códigos e logs, enquanto a perícia me ensina o rigor e a metodologia para transformar dados em fatos.
-
-🔍 O que me move: A busca pela verdade através da análise de dados. Sou apaixonado por casos complexos e garantir a integridade da informação.
-
-🚀 Meu foco atual: Resposta a Incidentes (IR), Forense Digital e o aprendizado constante de novas ferramentas de investigação.
+Estudante de Tecnologia da Informação | ADS concluído | Investigação e Perícia Criminal | Suporte Técnico | Aprendendo Redes, Hardware e Segurança da Informação
 
 
 
